@@ -1,0 +1,1 @@
+const quote: ['He who dares wins' 'YOLO'];
