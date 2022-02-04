@@ -1,13 +1,18 @@
-# Mixed Messages Introduction
-Mixed messages is a message generator program where every time a user runs he program they will get a new, randomized, inspiring quote. This app will be made using Javascript, Git version control and the command line.
+# Mixed Messages Challenge
+For my mixed messages project I will be creating a football match results program that will randomly generate scores for use in a game like Fifa.
 ## Table Of Contents
 1. [Introduction](#introduction)
 2. [Technologies](#technologies)
 3. [Finish Date](#Finish-date)
 
 ## Introduction
-For this project, I will build a message generator program. Every time a user runs a program, they should get a new, randomized output. I will be outputting inspirational quotes. the message that it outputs has to be made up of at least three different pieces of data too.
+My football match results program is a program that would be used on a football game like Fifa where in a career or tournament mode it is needed to create random match scores whilst you play through the seasons. This programm will be the bare bone functionality just to create the random match scores. As I gain more knowledge of Javascript I would like to create more complex functionality to the programme for example:
+* Yellow and red cards
+* Shots on goal
+* Shots on Target
+* Corners
 
+The football League I will be using to create the scores will be the English Premier League.
 ## Technologies
 My Mixed messages project is created with:
 * Javascript
