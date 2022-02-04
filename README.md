@@ -6,7 +6,7 @@ For my mixed messages project I will be creating a football match results progra
 3. [Finish Date](#Finish-date)
 
 ## Introduction
-My football match results program is a program that would be used on a football game like Fifa where in a career or tournament mode it is needed to create random match scores whilst you play through the seasons. This programm will be the bare bone functionality just to create the random match scores. As I gain more knowledge of Javascript I would like to create more complex functionality to the programme for example:
+My football match results program is a program that would be used on a football game like Fifa where in a career or tournament mode it is needed to create random match scores whilst you play through the seasons. This program will be the bare bone functionality just to create the random match scores. As I gain more knowledge of Javascript I would like to create more complex functionality to the programme for example:
 * Yellow and red cards
 * Shots on goal
 * Shots on Target
