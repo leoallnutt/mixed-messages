@@ -15,7 +15,7 @@ My football match results program is a program that would be used on a football 
 * Shots on Target
 * Corners
 
-The football League I will be using to create the scores will be the English Premier League.
+The football League I will be using for this program will be based on the English Premier League.
 ## Technologies
 My Mixed messages project is created with:
 * Javascript

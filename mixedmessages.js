@@ -6,18 +6,19 @@ const teams = ['Arsenal', 'Aston Villa', 'Barnsley', 'Birmingham City',
  'Leeds United', 'Leicester City', 'Liverpool', 'Manchester City', 'Manchester United',
   'Middlesbrough', 'Newcastle United', 'Norwich City', 'Nottingham Forest', 
   'Oldham Athletic', 'Portsmouth', 'Queens Park Rangers', 'Reading', 'Sheffield United'];
- 
+
 const gameTimes = ['12:30', '16:30', '15:00', '17:00', '17:30', '20:00'];
-let time = gameTimes[Math.floor(Math.random()*gameTimes.length)];
 
-const teamAScore = Math.floor((Math.random() * 4) + 1);
-const teamBScore = Math.floor((Math.random() * 4) + 1);
-
-
-
+//Takes a random team from the teams array
 const getTeamA = teams[Math.floor(Math.random()*teams.length)];
 const getTeamB = teams[Math.floor(Math.random()*teams.length)];
 
+//Takes a random time from the gameTimes array
+const time = gameTimes[Math.floor(Math.random()*gameTimes.length)];
+
+//Creates a random score for both of the teams
+const teamAScore = Math.floor((Math.random() * 4) + 1);
+const teamBScore = Math.floor((Math.random() * 4) + 1);
 
 
 function generateScore () {
